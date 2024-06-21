@@ -188,4 +188,4 @@ model.save('my_saved_model.h5')
 Feel free to open issues or submit pull requests for improvements.
 
 ### License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See [LICENSE](https://github.com/CrashSnap/machine-learning/blob/main/LICENSE) for more information.
